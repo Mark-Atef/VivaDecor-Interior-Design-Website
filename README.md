@@ -58,6 +58,7 @@ Designed with a **mobile-first approach** and tested across devices, it combines
 ## 📁 Project Structure
 
 VivaDecor/
+```
 ├── index.html
 ├── /images
 ├── /webfonts
@@ -65,8 +66,7 @@ VivaDecor/
 │ ├── styles.css
 │ └── all.min.css
 └── README.md
-
---
+``` 
 
 ## 📱 Responsive Design
 
