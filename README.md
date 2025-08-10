@@ -87,6 +87,10 @@ Built with a **mobile-first approach** and tested on:
 1. Open the `index.html` file in your browser.  
 2. Enjoy exploring 
 
+## 🚀 Live Demo
+
+- 🔗 [Live View](https://mark-atef.github.io/VivaDecor-Interior-Design-Website/)
+
 ---
 # 📬 Contact
 
