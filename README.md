@@ -81,7 +81,7 @@ Built with a **mobile-first approach** and tested on:
 
 1. **Clone or Download** this repository:  
    ```bash
-   git clone https://github.com/your-username/vivadecor.git
+   git clone https://github.com/Mark-Atef/VivaDecor-Interior-Design-Website.git
 
 
 1. Open the `index.html` file in your browser.  
