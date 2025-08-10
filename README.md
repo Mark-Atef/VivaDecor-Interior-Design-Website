@@ -9,7 +9,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the page showcases a clean la
 
 **Mark Atef Awad Yacoub**  
 
-Developed as part of the **Web Masters Front-End Training Program
+Developed as part of the **Web Masters Front-End Training Program**
 ---
 
 ## 🌍 Overview
