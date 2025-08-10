@@ -7,7 +7,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the page showcases a clean la
 
 ## 👤 Author
 
-### 👤 Name: Mark Atef Awad Yacoub
+###  Name: Mark Atef Awad Yacoub
 
 Developed as part of the **Web Masters Front-End Training Program**
 ---
